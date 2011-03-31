@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WorldClock</string>
+    <string name="add_clock">Add</string>
+    <string name="edit_clock">Edit</string>
+    <string name="search">Search</string>
+    <string name="search_city_hint">Search Cities</string>
+    <string name="list_no_clocks">No Clocks in list</string>
+    <string name="delete_clock">Delete</string>
+    
+     <string name="city_prompt">Choose a city</string>
+    <string-array name="cities_array">    
+        <item>Select a City/Country</item>
+        <item>Bangalore</item>
+        <item>Chikmagalur</item>
+        <item>Chennai</item>
+        <item>Shoreview</item>
+        <item>Oakmont</item>
+        <item>Old Bridge</item>
+    </string-array>
+</resources>
